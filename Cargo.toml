@@ -1,0 +1,10 @@
+[package]
+name = "m3-client"
+version = "0.1.0"
+authors = ["7h3qu1rkyb1t <the.qu1rkyb1t@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = "0.11.0"
